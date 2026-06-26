@@ -1,6 +1,6 @@
 # Airlines Tracker Using Gantt Chart
 
-This repository contains a React application visualizing airline flight schedules using Syncfusion Gantt chart. It demonstrates how Gantt charts adapt for time‑based resource scheduling beyond traditional project management.
+This repository contains a React application visualizing airline flight schedules using [React Gantt Chart](https://www.syncfusion.com/react-components/react-gantt-chart). It demonstrates how Gantt charts adapt for time‑based resource scheduling beyond traditional project management.
 
 ## Features
 
@@ -48,3 +48,11 @@ This repository demonstrates:
 - Modeling non-project data in Gantt charts
 - Resource view for scheduling scenarios
 - Customizing taskbars and tooltips in Syncfusion React Gantt
+
+## Related Links
+
+- [Explore React Gantt Chart](https://www.syncfusion.com/react-components/react-gantt-chart)
+- [Gantt Chart Feature Overview](https://ej2.syncfusion.com/react/documentation/gantt/overview)
+- [React Gantt Chart Getting Started Guide](https://ej2.syncfusion.com/react/documentation/gantt/getting-started)
+- [React Gantt API Documentation](https://ej2.syncfusion.com/react/documentation/api/gantt/viewtype)
+- [React Gantt Chart Live Demos and Examples](https://ej2.syncfusion.com/react/demos/#/tailwind3/gantt/resource-view)
